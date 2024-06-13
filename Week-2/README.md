@@ -71,7 +71,7 @@
 - Public Vulnerability are vulnerabilities who
 ## Session hijacking
 ### Click jacking
-**Cookie **
+**Cookie Protection**
 ### Homograph attack
 ### 3D Phishing
 
