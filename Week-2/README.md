@@ -75,7 +75,6 @@
 ### 3D Phishing
 
 ## Ransomware
-### Facebook GIF vulnerability
 ### WannaCry
 
 > [!CAUTION]
