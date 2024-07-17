@@ -24,11 +24,12 @@
   - [Drone](https://timesofindia.indiatimes.com/india/drone-recovered-near-pakistan-border-in-punjab/articleshow/105355323.cms)
 
 ## Investigation
+
 ### Acronyms
 - MO - Modus Operandi
 - ISP - Internet Service Provider
 - CDR - Call Detail Record
-- IPDR - International Public Disclosure Request
+- IPDR - Internet Protocol Detail Record
 - SDR - Subscriber Detail Record
 - ILD CDR - International Long Distance Call Detail Record
 - TDR - Tower Detail Record
